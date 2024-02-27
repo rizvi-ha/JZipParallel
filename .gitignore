@@ -1,0 +1,5 @@
+# Ignore build files
+*.class
+
+# Ignore this big file I was using for testing
+hugefile
